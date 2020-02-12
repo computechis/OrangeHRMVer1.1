@@ -145,7 +145,9 @@ public class Helper {
 
 	}
 
-	
+	public void demoMethod() {
+		
+	}
 
 	public static void switchToWindow() {
 
